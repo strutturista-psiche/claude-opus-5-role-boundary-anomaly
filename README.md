@@ -269,6 +269,7 @@ The repository evidence set consists of preserved screenshots compiled into date
 - [2026-09-05 evidence — Part 1](1-2026.09.05ClaudeOpus5バグ.pdf)
 - [2026-09-05 evidence — Part 2](2-2026.09.05ClaudeOpus5バグ.pdf)
 - [2026-09-23 evidence](2026.09.23ClaudeOpus5バグ.pdf)
+
 Current evidence includes:
 
 - August 21, 2026 — recovered primary screenshots documenting the earliest currently preserved and consciously noticed occurrences;
