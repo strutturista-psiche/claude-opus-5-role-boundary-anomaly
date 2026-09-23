@@ -265,10 +265,10 @@ The objective is to identify reproducible observable conditions as precisely as 
 
 The repository evidence set consists of preserved screenshots compiled into dated PDF records.
 
-- [2026-08-21 evidence](./2026.08.21ClaudeOpus5バグ.pdf)
-- [2026-09-05 evidence — Part 1](./1-2026.09.05ClaudeOpus5バグ.pdf)
-- [2026-09-05 evidence — Part 2](./2-2026.09.05ClaudeOpus5バグ.pdf)
-- [2026-09-23 evidence](./2026.09.23ClaudeOpus5バグ.pdf)
+- [2026-08-21 evidence](./2026-08-21-claude-opus-5-evidence.pdf)
+- [2026-09-05 evidence — Part 1](./2026-09-05-claude-opus-5-evidence-part-1.pdf)
+- [2026-09-05 evidence — Part 2](./2026-09-05-claude-opus-5-evidence-part-2.pdf)
+- [2026-09-23 evidence](./2026-09-23-claude-opus-5-evidence.pdf)
 
 Current evidence includes:
 
