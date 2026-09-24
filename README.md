@@ -301,3 +301,11 @@ Further internal diagnosis would require provider-side information unavailable t
 **Enli Lucente**  
 Independent Researcher  
 Strutturista della Psiche
+
+---
+
+## Commissioned Investigations
+
+For commissioned investigations, see:
+
+[Commissioned Investigation — Scope, Method, and Terms](https://equal-revolve-247.notion.site/Commissioned-Investigation-Scope-Method-and-Terms-3e51d5c4146f80c2955ac0b26c54ca8d?source=copy_link)
